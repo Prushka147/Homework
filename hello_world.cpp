@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-// Main function - entry point of the program
+// Main function - entry point of the program!
 int main() {
     std::string name;  // Variable to store user's name
     
